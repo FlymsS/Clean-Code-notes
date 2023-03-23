@@ -1,7 +1,7 @@
 ##Every function sould do just one thing
 Here I have this code: 
 
-```
+```js
 const paintSection = (section: number) => {
     console.log("sectionTemp: ",sectionTemp);
     const sectionTemp = sections[section];
