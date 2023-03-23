@@ -1,4 +1,4 @@
-##Every function sould do just one thing
+## Every function sould do just one thing
 Here I have this code: 
 
 ```js
