@@ -315,5 +315,6 @@ const paintSection = (section: number) => {
             />
           ))}
       </div>
-  )  ```
+  )  
+  ```
 
